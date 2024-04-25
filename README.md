@@ -62,6 +62,7 @@ Scope = A local variable is in scope only within the method in which the variabl
 
 
 Chapter 10 
+
 Keyword static lets a method run without any instance of the class. A static method means the behavior is not dependent on an instance variable, so no instance/ object is required. Just the class.
 
 Static methods can’t use non static methods either.
